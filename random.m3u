@@ -72,3 +72,7 @@ http://ok2.se:8000/be53F7UE9pfxg32IY/1715F9U27LSvJleb6/314
 http://ok2.se:8000/be53F7UE9pfxg32IY/1715F9U27LSvJleb6/315
 #EXTINF:-1,METV HD – NEW
 http://ok2.se:8000/be53F7UE9pfxg32IY/1715F9U27LSvJleb6/15072
+
+#EXTINF:0,MX | Canal FOX 
+#EXTVLCOPT:network-caching=1000
+http://futuretvplus.com:25461/futurito/futurito/138
